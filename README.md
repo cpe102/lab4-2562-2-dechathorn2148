@@ -1,2 +1,2 @@
-# NAME: ______________
-# STUDENT ID:_____________
+# NAME: Dechathorn Intravijit
+# STUDENT ID: 620612148
